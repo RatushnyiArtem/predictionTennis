@@ -1,0 +1,128 @@
+round,player1,player2,predicted_winner,predicted_prob
+1/64,Jannik Sinner,Luca Nardi,Jannik Sinner,0.792568
+1/64,Chun Hsin Tseng,Aleksandar Vukic,Aleksandar Vukic,0.747537
+1/64,Pedro Martinez,George Loffhagen,Pedro Martinez,0.636012
+1/64,Mariano Navone,Denis Shapovalov,Denis Shapovalov,0.630708
+1/64,Grigor Dimitrov,Yoshihito Nishioka,Grigor Dimitrov,0.81986
+1/64,Francisco Comesana,Corentin Moutet,Francisco Comesana,0.500159
+1/64,Sebastian Ofner,Hamad Medjedovic,Sebastian Ofner,0.579401
+1/64,Jacob Fearnley,Tommy Paul,Tommy Paul,0.546357
+1/64,Ben Shelton,Alex Bolt,Ben Shelton,0.678652
+1/64,Rinky Hijikata,David Goffin,David Goffin,0.626037
+1/64,Aleksandar Kovacevic,Marton Fucsovics,Marton Fucsovics,0.510216
+1/64,Gael Monfils,Ugo Humbert,Gael Monfils,0.522303
+1/64,Brandon Nakashima,Yibing Wu,Brandon Nakashima,0.667316
+1/64,Alexander Shevchenko,Reilly Opelka,Reilly Opelka,0.620709
+1/64,Jaime Faria,Lorenzo Sonego,Lorenzo Sonego,0.583957
+1/64,Nikoloz Basilashvili,Lorenzo Musetti,Lorenzo Musetti,0.611416
+1/64,Jack Draper,Sebastian Baez,Jack Draper,0.916575
+1/64,Raphael Collignon,Marin Cilic,Marin Cilic,0.597283
+1/64,James Mccabe,Fabian Marozsan,Fabian Marozsan,0.59136
+1/64,Jaume Munar,Alexander Bublik,Alexander Bublik,0.659803
+1/64,Flavio Cobolli,Beibit Zhukayev,Flavio Cobolli,0.584781
+1/64,Tomas Martin Etcheverry,Jack Pinnington Jones,Tomas Martin Etcheverry,0.670674
+1/64,Marcos Giron,Camilo Ugo Carabelli,Marcos Giron,0.66473
+1/64,Hugo Gaston,Jakub Mensik,Jakub Mensik,0.627011
+1/64,Alex De Minaur,Roberto Carballes Baena,Alex De Minaur,0.851662
+1/64,Arthur Cazaux,Adam Walton,Arthur Cazaux,0.835782
+1/64,Quentin Halys,August Holmgren,Quentin Halys,0.654138
+1/64,Damir Dzumhur,Tomas Machac,Tomas Machac,0.656865
+1/64,Alex Michelsen,Miomir Kecmanovic,Alex Michelsen,0.546515
+1/64,Jesper De Jong,Christopher Eubanks,Christopher Eubanks,0.712752
+1/64,Daniel Evans,Jay Clarke,Daniel Evans,0.702121
+1/64,Alexandre Muller,Novak Djokovic,Novak Djokovic,0.83832
+1/64,Taylor Fritz,Giovanni Mpetshi Perricard,Taylor Fritz,0.710481
+1/64,Gabriel Diallo,Daniel Altmaier,Daniel Altmaier,0.616234
+1/64,Matteo Arnaldi,Botic Van De Zandschulp,Botic Van De Zandschulp,0.562402
+1/64,Brandon Holt,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.612484
+1/64,Alexei Popyrin,Arthur Fery,Alexei Popyrin,0.870643
+1/64,Luciano Darderi,Roman Safiullin,Roman Safiullin,0.575088
+1/64,Vit Kopriva,Jordan Thompson,Jordan Thompson,0.647706
+1/64,Benjamin Bonzi,Daniil Medvedev,Daniil Medvedev,0.612657
+1/64,Francisco Cerundolo,Nuno Borges,Francisco Cerundolo,0.762385
+1/64,Billy Harris,Dusan Lajovic,Billy Harris,0.586203
+1/64,Shintaro Mochizuki,Giulio Zeppieri,Shintaro Mochizuki,0.511134
+1/64,Mackenzie Mcdonald,Karen Khachanov,Karen Khachanov,0.714919
+1/64,Matteo Berrettini,Kamil Majchrzak,Matteo Berrettini,0.720196
+1/64,Ethan Quinn,Henry Searle,Ethan Quinn,0.612936
+1/64,Cristian Garin,Chris Rodesch,Cristian Garin,0.694814
+1/64,Arthur Rinderknech,Alexander Zverev,Alexander Zverev,0.6176
+1/64,Holger Rune,Nicolas Jarry,Holger Rune,0.739931
+1/64,Learner Tien,Nishesh Basavareddy,Learner Tien,0.796353
+1/64,Jacob Fearnley,Joao Fonseca,Jacob Fearnley,0.579757
+1/64,Jenson Brooksby,Tallon Griekspoor,Tallon Griekspoor,0.570557
+1/64,Jiri Lehecka,Hugo Dellien,Jiri Lehecka,0.678664
+1/64,Mattia Bellucci,Oliver Crawford,Mattia Bellucci,0.682997
+1/64,Cameron Norrie,Roberto Bautista Agut,Cameron Norrie,0.695377
+1/64,Elias Ymer,Frances Tiafoe,Frances Tiafoe,0.772651
+1/64,Andrey Rublev,Laslo Djere,Andrey Rublev,0.791465
+1/64,Zizou Bergs,Lloyd Harris,Lloyd Harris,0.605202
+1/64,Adrian Mannarino,Christopher Oconnell,Adrian Mannarino,0.764026
+1/64,Valentin Royer,Stefanos Tsitsipas,Stefanos Tsitsipas,0.657117
+1/64,Felix Auger Aliassime,James Duckworth,Felix Auger Aliassime,0.746878
+1/64,Jan Lennard Struff,Filip Misolic,Jan Lennard Struff,0.663492
+1/64,Oliver Tarvet,Leandro Riedi,Leandro Riedi,0.628919
+1/64,Fabio Fognini,Carlos Alcaraz,Carlos Alcaraz,0.810561
+1/32,Jannik Sinner,Aleksandar Vukic,Jannik Sinner,0.965436
+1/32,Pedro Martinez,Denis Shapovalov,Denis Shapovalov,0.763819
+1/32,Grigor Dimitrov,Francisco Comesana,Grigor Dimitrov,0.736817
+1/32,Sebastian Ofner,Tommy Paul,Tommy Paul,0.624239
+1/32,Ben Shelton,David Goffin,Ben Shelton,0.640977
+1/32,Marton Fucsovics,Gael Monfils,Gael Monfils,0.580528
+1/32,Brandon Nakashima,Reilly Opelka,Reilly Opelka,0.558749
+1/32,Lorenzo Sonego,Lorenzo Musetti,Lorenzo Musetti,0.700872
+1/32,Jack Draper,Marin Cilic,Jack Draper,0.611087
+1/32,Fabian Marozsan,Alexander Bublik,Alexander Bublik,0.5638
+1/32,Flavio Cobolli,Tomas Martin Etcheverry,Tomas Martin Etcheverry,0.611199
+1/32,Marcos Giron,Jakub Mensik,Marcos Giron,0.647231
+1/32,Alex De Minaur,Arthur Cazaux,Alex De Minaur,0.621366
+1/32,Quentin Halys,Tomas Machac,Quentin Halys,0.501119
+1/32,Alex Michelsen,Christopher Eubanks,Christopher Eubanks,0.529824
+1/32,Daniel Evans,Novak Djokovic,Novak Djokovic,0.540627
+1/32,Taylor Fritz,Daniel Altmaier,Taylor Fritz,0.562253
+1/32,Botic Van De Zandschulp,Alejandro Davidovich Fokina,Alejandro Davidovich Fokina,0.599878
+1/32,Alexei Popyrin,Roman Safiullin,Alexei Popyrin,0.555118
+1/32,Jordan Thompson,Daniil Medvedev,Jordan Thompson,0.58608
+1/32,Francisco Cerundolo,Billy Harris,Francisco Cerundolo,0.640718
+1/32,Shintaro Mochizuki,Karen Khachanov,Karen Khachanov,0.605659
+1/32,Matteo Berrettini,Ethan Quinn,Matteo Berrettini,0.738293
+1/32,Cristian Garin,Alexander Zverev,Alexander Zverev,0.598966
+1/32,Holger Rune,Learner Tien,Holger Rune,0.680944
+1/32,Jacob Fearnley,Tallon Griekspoor,Tallon Griekspoor,0.701134
+1/32,Jiri Lehecka,Mattia Bellucci,Jiri Lehecka,0.589172
+1/32,Cameron Norrie,Frances Tiafoe,Frances Tiafoe,0.5603
+1/32,Andrey Rublev,Lloyd Harris,Andrey Rublev,0.839811
+1/32,Adrian Mannarino,Stefanos Tsitsipas,Stefanos Tsitsipas,0.543803
+1/32,Felix Auger Aliassime,Jan Lennard Struff,Felix Auger Aliassime,0.647639
+1/32,Leandro Riedi,Carlos Alcaraz,Carlos Alcaraz,0.672903
+1/16,Jannik Sinner,Denis Shapovalov,Jannik Sinner,0.645371
+1/16,Grigor Dimitrov,Tommy Paul,Grigor Dimitrov,0.592884
+1/16,Ben Shelton,Gael Monfils,Ben Shelton,0.552801
+1/16,Reilly Opelka,Lorenzo Musetti,Reilly Opelka,0.557389
+1/16,Jack Draper,Alexander Bublik,Jack Draper,0.63556
+1/16,Tomas Martin Etcheverry,Marcos Giron,Marcos Giron,0.621235
+1/16,Alex De Minaur,Quentin Halys,Alex De Minaur,0.517501
+1/16,Christopher Eubanks,Novak Djokovic,Novak Djokovic,0.667662
+1/16,Taylor Fritz,Alejandro Davidovich Fokina,Taylor Fritz,0.626942
+1/16,Alexei Popyrin,Jordan Thompson,Jordan Thompson,0.634763
+1/16,Francisco Cerundolo,Karen Khachanov,Karen Khachanov,0.65001
+1/16,Matteo Berrettini,Alexander Zverev,Alexander Zverev,0.513653
+1/16,Holger Rune,Tallon Griekspoor,Tallon Griekspoor,0.580058
+1/16,Jiri Lehecka,Frances Tiafoe,Frances Tiafoe,0.657748
+1/16,Andrey Rublev,Stefanos Tsitsipas,Andrey Rublev,0.579755
+1/16,Felix Auger Aliassime,Carlos Alcaraz,Carlos Alcaraz,0.643077
+1/8,Jannik Sinner,Grigor Dimitrov,Jannik Sinner,0.821458
+1/8,Ben Shelton,Reilly Opelka,Ben Shelton,0.693791
+1/8,Jack Draper,Marcos Giron,Jack Draper,0.797289
+1/8,Alex De Minaur,Novak Djokovic,Novak Djokovic,0.717918
+1/8,Taylor Fritz,Jordan Thompson,Taylor Fritz,0.601629
+1/8,Karen Khachanov,Alexander Zverev,Alexander Zverev,0.654297
+1/8,Tallon Griekspoor,Frances Tiafoe,Tallon Griekspoor,0.534571
+1/8,Andrey Rublev,Carlos Alcaraz,Carlos Alcaraz,0.648194
+1/4,Jannik Sinner,Ben Shelton,Jannik Sinner,0.885527
+1/4,Jack Draper,Novak Djokovic,Novak Djokovic,0.740733
+1/4,Taylor Fritz,Alexander Zverev,Taylor Fritz,0.502268
+1/4,Tallon Griekspoor,Carlos Alcaraz,Carlos Alcaraz,0.75667
+1/2,Jannik Sinner,Novak Djokovic,Jannik Sinner,0.654348
+1/2,Taylor Fritz,Carlos Alcaraz,Carlos Alcaraz,0.762688
+Final,Jannik Sinner,Carlos Alcaraz,Jannik Sinner,0.603644
